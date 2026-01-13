@@ -1,6 +1,6 @@
 {
   "name": "tafels-oefenen-(2-&-5)",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
