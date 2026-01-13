@@ -22,3 +22,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.env.local GEMINI_API_KEY=AIzaSyDaVTpKTiSLZlm0dCn2aSlN4Ivqmu59YL4
