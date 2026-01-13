@@ -1,0 +1,7 @@
+{
+  "name": "Tafels Oefenen (2 & 5)",
+  "description": "Een interactief oefenprogramma om de tafels van 2 en 5 tot 100 te beheersen met hulp van een AI-coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
